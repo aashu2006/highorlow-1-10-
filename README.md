@@ -4,6 +4,8 @@
 
 `0x8eDb4C68ad0ac098Ee143eea1d31AE133826Fe16`  
 https://coston2-explorer.flare.network/address/0x8eDb4C68ad0ac098Ee143eea1d31AE133826Fe16
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a11c0afa-bf89-4e26-9488-1e275e32fbe2" />
+
 
 ---
 
